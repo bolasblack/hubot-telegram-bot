@@ -1,0 +1,27 @@
+{
+  "name": "hubot-telegram-bot",
+  "version": "0.0.1",
+  "description": "Telegram bot adapter for hubot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bolasblack/hubot-telegram-bot.git"
+  },
+  "keywords": [
+    "hubot",
+    "telegram"
+  ],
+  "author": "c4605 <bolasblack@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bolasblack/hubot-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/bolasblack/hubot-telegram-bot#readme",
+  "dependencies": {
+    "coffee-script": "^1.9.3",
+    "telegram-bot": "bolasblack/node-telegram-bot#use-directly"
+  }
+}
